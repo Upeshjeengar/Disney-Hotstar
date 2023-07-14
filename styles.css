@@ -33,6 +33,10 @@ body {
   display: flex;
   list-style: none;
 }
+.end{
+  margin-left: 1000px;
+  margin-right: 10px;
+}
 
 .nav-items a {
   text-decoration: none;
